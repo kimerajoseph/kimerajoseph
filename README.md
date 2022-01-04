@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kimera-joseph.netlify.app/](https://kimera-joseph.netlify.app/)
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Engineering and Analysis**
 
 - 📫 How to reach me **jkimera5@gmail.com**
 
