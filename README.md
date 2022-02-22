@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jkimera5@gmail.com**
 
-- ⚡ Fun fact **I am treeified of snakes**
+- ⚡ Fun fact **I am terified of snakes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
